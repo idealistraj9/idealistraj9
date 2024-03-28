@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idealistraj9
 - 👀 I’m interested in web devs.
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning New web technologies
 - 💞️ I’m looking to collaborate on Nothing 😁
 - 📫 How to reach me idealistraj09@gmail.com
 
